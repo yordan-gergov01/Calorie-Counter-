@@ -11,6 +11,10 @@ The Calorie Counter is a web-based application designed to help users track thei
 - **Calculate Remaining Calories:** Automatically calculates remaining calories based on inputted values.
 - **Visual Feedback:** Displays if you are in calorie surplus or deficit.
 
+  ![calorie app 1](https://github.com/user-attachments/assets/d4668d26-4292-4dfe-9fc9-e57ffb69dd68)
+![calorie app 2](https://github.com/user-attachments/assets/5072123a-654e-47b2-9ae3-0b95181f33fa)
+
+
 ## Technologies Used
 
 - **HTML:** Structure of the web pages.
